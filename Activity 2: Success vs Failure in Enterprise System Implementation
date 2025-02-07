@@ -1,10 +1,30 @@
 Research title: "Comparative Analysis of Successful and Failed Enterprise System Implementations"
 
-Case Study 1: Successful Enterprise System Implementation
+Case Study 1: Successful Enterprise System Implementation - Toyota
      1. company overview (Why the enterprise system was implemented)
+      -To boost productivity, simplify processes, and adhere to lean manufacturing principles, 
+       Toyota used an Enterprise Resource Planning (ERP) system. Manufacturing, supply chain management, 
+       finance, and procurement are just a few of the business operations that the ERP system integrates 
+       to enable better departmental decision-making and real-time data exchange.
+
      2. implementation process
+      -Toyota started by assessing its current procedures to see which ones would profit from automation
+       and integration. Simplifying processes, increasing data visibility, and strengthening decision-making skills 
+       were the main objectives of this evaluation.
+
      3. Key success factors
+      -By integrating various business functions, such as finance, human resources, supply chain management, and 
+      manufacturing operations, Toyota has achieved significant improvements in efficiency and productivity. This aligns
+      with best practices in tailored IT solutions that are essential for optimizing organizational performance.
+
      4. outcomes & impact
+      -Toyota is able to produce a greater variety of products with higher quality and at lower cost than its competitors.
+      It is able to bring new models from the drawing board to production in far shorter time than any of its U.S. or European competitors.
+      And the workers on the line have a better sense of who their customers are and what their customers desire in product and experience
+      of ownership than any of the line workers at the Big Three here in the U.S.This demonstrates clearly, in my mind, how the Toyota Way 
+      makes every employee a “business strategist,” and how doing so produces better and more consistent products–not just year after year, 
+      but decade after decade. Most U.S. companies can only dream of such stability and success.
+
 
 Case study 2: Failed Enterprise System Implementation
      1. company overview (Reason for implementing the enterprise system)
@@ -25,3 +45,7 @@ Insights & recommendations
     2. Strategies to Avoid Failure
     3. Future Research Opportunities
 
+ References: 
+
+* https://www.walterassociates.co.uk/successful-erp-implementation-companies/?fbclid=IwY2xjawISh71leHRuA2FlbQIxMAABHb3hdiSW_2I4wKsJcD5JsFUta0bIDIh4yREeFe7mbPvuc3ImyJEHtSjoFQ_aem_be4a-NxtuaaDEyzFG1p79A
+* https://www.erpvar.com/blog/bid/109048/erp-implementation-lessons-from-toyota-on-achieving-roi?
