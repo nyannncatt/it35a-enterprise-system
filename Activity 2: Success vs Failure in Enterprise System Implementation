@@ -1,6 +1,7 @@
 Research title: "Comparative Analysis of Successful and Failed Enterprise System Implementations"
 
 Case Study 1: Successful Enterprise System Implementation - Toyota
+
      1. company overview (Why the enterprise system was implemented)
       -To boost productivity, simplify processes, and adhere to lean manufacturing principles, 
        Toyota used an Enterprise Resource Planning (ERP) system. Manufacturing, supply chain management, 
@@ -24,6 +25,11 @@ Case Study 1: Successful Enterprise System Implementation - Toyota
       of ownership than any of the line workers at the Big Three here in the U.S.This demonstrates clearly, in my mind, how the Toyota Way 
       makes every employee a “business strategist,” and how doing so produces better and more consistent products–not just year after year, 
       but decade after decade. Most U.S. companies can only dream of such stability and success.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 Case study 2: Failed Enterprise System Implementation - Revlon
@@ -51,9 +57,54 @@ Case study 2: Failed Enterprise System Implementation - Revlon
       reporting. The company reported a net loss of $70.3 million in the fourth quarter of 2018. The company also delayed filing its annual financial report 
       for 2018 due to material weakness in its internal controls related to the SAP implementation.
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Comparative analysis: create a table for both case study 1 & 2.
+
      1. Similarities & Differences
+
+1. Company Overview (Reason for Implementing ERP)
+Toyota: Implemented ERP to improve productivity, streamline processes, and support lean manufacturing. It integrated functions like manufacturing, supply chain, finance, and procurement to enhance decision-making.
+Revlon: Needed to integrate its acquired brands after restructuring. The company moved to SAP S/4HANA to streamline its ERP system, replacing various legacy systems.
+
+Comparison:
+Toyota focused on operational efficiency through ERP aligned with lean principles.
+Revlon aimed to unify disparate systems across its brands to improve overall operations.
+
+2. Implementation Process & Challenges
+Toyota: Carefully evaluated existing processes, ensuring smooth integration for enhanced visibility and decision-making.
+Revlon: Faced major issues post-implementation of SAP S/4HANA, resulting in a delayed financial report and service disruptions.
+
+Comparison:
+Toyota's implementation was well-planned and executed.
+Revlon struggled with poor planning, leading to system failures and disruptions.
+
+3. Success/Failure Factors
+Toyota: Achieved success by integrating business functions, improving efficiency, and reducing costs.
+Revlon: Failed due to poor system design, internal control weaknesses, and lack of a solid transition plan.
+
+Comparison:
+Toyota’s careful integration led to better efficiency.
+Revlon’s poor implementation resulted in operational and financial losses.
+
+4. Outcomes & Impact
+Toyota: Achieved faster product development, higher quality, and lower costs, gaining a competitive edge.
+Revlon: Suffered $64 million in unfulfilled shipments, $53.6 million in additional charges, and a $70.3 million loss in Q4 2018.
+
+Comparison:
+Toyota saw improved operations and market performance.
+Revlon faced significant financial and operational setbacks.
+
+
+
+
+
+
+
      2. Critical Success vs. Failure Factors
+
      3. Key Takeaways & Lessons Learned include the following questions:
             1. What did the successful case do right?
             2. What went wrong in the failed case?
