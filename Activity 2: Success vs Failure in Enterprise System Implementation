@@ -104,11 +104,29 @@ Revlon faced significant financial and operational setbacks.
 
 
      2. Critical Success vs. Failure Factors
+Critical Success Factors (Toyota):  
+- Clear process assessment and automation.  
+- Strong integration of key business areas (finance, supply chain, manufacturing).  
+- Real-time data sharing and improved decision-making.  
+
+Critical Failure Factors (Revlon):  
+- Poor system design and inadequate internal controls.  
+- Failure to address critical issues before launch.  
+- Service disruptions leading to financial loss and delayed reports.
 
      3. Key Takeaways & Lessons Learned include the following questions:
             1. What did the successful case do right?
+- Toyota focused on assessing processes before automating them.
+- Integrated key business functions like finance, supply chain, and manufacturing.
+- Improved decision-making with real-time data sharing.
             2. What went wrong in the failed case?
+-Revlon lacked proper design and overlooked control issues.
+-The new ERP system failed shortly after launch.
+-Service disruptions caused financial losses and delayed reporting.
             3. How can future implementations avoid similar failures?
+-Ensure thorough planning and proper system design before going live.
+-Test the ERP system to identify issues early on.
+-Strengthen internal controls and prepare recovery plans for any disruptions.
 
 Insights & recommendations
     1. Best Practices for Successful Enterprise System Implementation
