@@ -51,7 +51,7 @@ Case study 2: Failed Enterprise System Implementation - Revlon
      Revlon implemented a robust service recovery plan and resolved the service level disruptions resulting from failure of the ERP.
 
      4. outcomes & consequences
-      -the system caused service-level disruptions that affected Revlon’s production and distribution capabilities. The company could not fulfil
+      -The system caused service-level disruptions that affected Revlon’s production and distribution capabilities. The company could not fulfil
       product shipments of approximately $64 million of net sales to several large retail customers in the U.S. The company also incurred $53.6 million 
       of incremental charges to remediate the decline in customer service levels.b The SAP failure significantly impacted Revlon’s financial performance and
       reporting. The company reported a net loss of $70.3 million in the fourth quarter of 2018. The company also delayed filing its annual financial report 
@@ -66,54 +66,57 @@ Comparative analysis: create a table for both case study 1 & 2.
      1. Similarities & Differences
 
 1. Company Overview (Reason for Implementing ERP)
-Toyota: Implemented ERP to improve productivity, streamline processes, and support lean manufacturing. It integrated functions like manufacturing, supply chain, finance, and procurement to enhance decision-making.
-Revlon: Needed to integrate its acquired brands after restructuring. The company moved to SAP S/4HANA to streamline its ERP system, replacing various legacy systems.
+-Toyota: Implemented ERP to improve productivity, streamline processes, and support lean manufacturing. It integrated functions like manufacturing, supply chain, finance, and procurement to enhance decision-making.
+-Revlon: Needed to integrate its acquired brands after restructuring. The company moved to SAP S/4HANA to streamline its ERP system, replacing various legacy systems.
 
 Comparison:
-Toyota focused on operational efficiency through ERP aligned with lean principles.
-Revlon aimed to unify disparate systems across its brands to improve overall operations.
+-Toyota focused on operational efficiency through ERP aligned with lean principles.
+-Revlon aimed to unify disparate systems across its brands to improve overall operations.
 
 2. Implementation Process & Challenges
-Toyota: Carefully evaluated existing processes, ensuring smooth integration for enhanced visibility and decision-making.
-Revlon: Faced major issues post-implementation of SAP S/4HANA, resulting in a delayed financial report and service disruptions.
+-Toyota: Carefully evaluated existing processes, ensuring smooth integration for enhanced visibility and decision-making.
+-Revlon: Faced major issues post-implementation of SAP S/4HANA, resulting in a delayed financial report and service disruptions.
 
 Comparison:
-Toyota's implementation was well-planned and executed.
-Revlon struggled with poor planning, leading to system failures and disruptions.
+-Toyota's implementation was well-planned and executed.
+-Revlon struggled with poor planning, leading to system failures and disruptions.
 
 3. Success/Failure Factors
-Toyota: Achieved success by integrating business functions, improving efficiency, and reducing costs.
-Revlon: Failed due to poor system design, internal control weaknesses, and lack of a solid transition plan.
+-Toyota: Achieved success by integrating business functions, improving efficiency, and reducing costs.
+-Revlon: Failed due to poor system design, internal control weaknesses, and lack of a solid transition plan.
 
 Comparison:
-Toyota’s careful integration led to better efficiency.
-Revlon’s poor implementation resulted in operational and financial losses.
+-Toyota’s careful integration led to better efficiency.
+-Revlon’s poor implementation resulted in operational and financial losses.
 
 4. Outcomes & Impact
-Toyota: Achieved faster product development, higher quality, and lower costs, gaining a competitive edge.
-Revlon: Suffered $64 million in unfulfilled shipments, $53.6 million in additional charges, and a $70.3 million loss in Q4 2018.
+-Toyota: Achieved faster product development, higher quality, and lower costs, gaining a competitive edge.
+-Revlon: Suffered $64 million in unfulfilled shipments, $53.6 million in additional charges, and a $70.3 million loss in Q4 2018.
 
 Comparison:
-Toyota saw improved operations and market performance.
-Revlon faced significant financial and operational setbacks.
+-Toyota saw improved operations and market performance.
+-Revlon faced significant financial and operational setbacks.
 
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 
      2. Critical Success vs. Failure Factors
 Critical Success Factors (Toyota):  
-- Clear process assessment and automation.  
-- Strong integration of key business areas (finance, supply chain, manufacturing).  
-- Real-time data sharing and improved decision-making.  
+ •  Clear process assessment and automation.  
+ •  Strong integration of key business areas (finance, supply chain, manufacturing).  
+ •  Real-time data sharing and improved decision-making.  
 
 Critical Failure Factors (Revlon):  
-- Poor system design and inadequate internal controls.  
-- Failure to address critical issues before launch.  
-- Service disruptions leading to financial loss and delayed reports.
+ •  Poor system design and inadequate internal controls.  
+ •  Failure to address critical issues before launch.  
+ •  Service disruptions leading to financial loss and delayed reports.
 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 
      3. Key Takeaways & Lessons Learned include the following questions:
@@ -132,30 +135,38 @@ Critical Failure Factors (Revlon):
 
 
 
+----------------------------------------------------------------------------------------------------------------
+
+
+
 Insights & recommendations
 
     1. Best Practices for Successful Enterprise System Implementation
--Thorough Planning & Assessment: Do an in-depth review of current processes before the implementation.
-Stakeholder Involvement: Engage key users across departments for smoother adoption.
-Customization & Flexibility: Adapt the system to business needs but scalable.
-Strong Change Management: Provide training and support to employees to ease the transition.
-Continuous Monitoring & Improvement: Real-time data analytics is used to improve operation
+ • Thorough Planning & Assessment: Do an in-depth review of current processes before the implementation.
+ • Stakeholder Involvement: Engage key users across departments for smoother adoption.
+ • Customization & Flexibility: Adapt the system to business needs but scalable.
+ • Strong Change Management: Provide training and support to employees to ease the transition.
+ • Continuous Monitoring & Improvement: Real-time data analytics is used to improve operation
 
     2. Strategies to Avoid Failure
-Thorough Testing: Test the system thoroughly before full deployment to avoid any disruptions.
-A clear implementation roadmap including defining goals, timelines, and risk mitigation plans.
-Robust internal controls: Sustain data integrity and regulatory compliance.
-Gradual Rollout: Implement in phases to identify and fix issues early.
-Vendor & IT Support: Select an ERP vendor who has good support after the implementation.
+ • Thorough Testing: Test the system thoroughly before full deployment to avoid any disruptions.
+ • A clear implementation roadmap including defining goals, timelines, and risk mitigation plans.
+ • Robust internal controls: Sustain data integrity and regulatory compliance.
+ • Gradual Rollout: Implement in phases to identify and fix issues early.
+ • Vendor & IT Support: Select an ERP vendor who has good support after the implementation.
 
     3. Future Research Opportunities
-AI & Automation in ERP Explore how AI improves decision-making, and process automation.
-Cloud vs. On-Premise ERP: Assess the long-term benefits and risks of cloud-based ERP solutions.
-Impact of ERP on SMEs: Explore how small and medium enterprises can leverage ERP for growth.
-User Adoption Challenges: Research psychological and organizational barriers to ERP implementation.
-Sustainability & ERP: Discuss the potential of an ERP system in aiding green manufacturing and supply chain.
+ • AI & Automation in ERP Explore how AI improves decision-making, and process automation.
+ • Cloud vs. On-Premise ERP: Assess the long-term benefits and risks of cloud-based ERP solutions.
+ • Impact of ERP on SMEs: Explore how small and medium enterprises can leverage ERP for growth.
+ • User Adoption Challenges: Research psychological and organizational barriers to ERP implementation.
+ • Sustainability & ERP: Discuss the potential of an ERP system in aiding green manufacturing and supply chain.
 
- References: 
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+References: 
 
 * https://www.walterassociates.co.uk/successful-erp-implementation-companies/?fbclid=IwY2xjawISh71leHRuA2FlbQIxMAABHb3hdiSW_2I4wKsJcD5JsFUta0bIDIh4yREeFe7mbPvuc3ImyJEHtSjoFQ_aem_be4a-NxtuaaDEyzFG1p79A
 * https://www.erpvar.com/blog/bid/109048/erp-implementation-lessons-from-toyota-on-achieving-roi?
